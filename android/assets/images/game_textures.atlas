@@ -1,0 +1,242 @@
+
+game_textures.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+add_button
+  rotate: false
+  xy: 318, 6
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+award
+  rotate: false
+  xy: 1284, 622
+  size: 200, 178
+  orig: 200, 178
+  offset: 0, 0
+  index: -1
+award_placeholder
+  rotate: false
+  xy: 756, 110
+  size: 125, 112
+  orig: 125, 112
+  offset: 0, 0
+  index: -1
+cell_grey
+  rotate: false
+  xy: 1706, 1791
+  size: 262, 233
+  orig: 262, 233
+  offset: 0, 0
+  index: -1
+cell_white
+  rotate: false
+  xy: 1706, 1314
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+dialog_background
+  rotate: false
+  xy: 2, 98
+  size: 610, 370
+  orig: 610, 370
+  offset: 0, 0
+  index: 710
+dialog_stage_background
+  rotate: false
+  xy: 2, 1304
+  size: 1300, 720
+  orig: 1300, 720
+  offset: 0, 0
+  index: -1
+game_bg
+  rotate: false
+  xy: 2, 582
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+ic_arrow_back
+  rotate: false
+  xy: 482, 56
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ic_home
+  rotate: false
+  xy: 1786, 1067
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ic_play_arrow
+  rotate: false
+  xy: 1858, 1005
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+ic_power_off
+  rotate: false
+  xy: 1970, 1882
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+ic_rate
+  rotate: false
+  xy: 887, 237
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+ic_school_yellow
+  rotate: false
+  xy: 959, 247
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+ic_search
+  rotate: false
+  xy: 1636, 660
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+ic_search_button
+  rotate: false
+  xy: 1706, 1549
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+ic_timer
+  rotate: false
+  xy: 1786, 933
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+ic_volume_off
+  rotate: false
+  xy: 410, 26
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+ic_volume_up
+  rotate: false
+  xy: 1786, 995
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+korean_flag
+  rotate: false
+  xy: 614, 112
+  size: 140, 110
+  orig: 140, 110
+  offset: 0, 0
+  index: -1
+level_completed
+  rotate: false
+  xy: 1486, 632
+  size: 148, 168
+  orig: 148, 168
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 614, 224
+  size: 271, 83
+  orig: 271, 83
+  offset: 0, 0
+  index: -1
+padlock
+  rotate: false
+  xy: 1970, 1944
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+platform
+  rotate: false
+  xy: 614, 309
+  size: 708, 159
+  orig: 708, 159
+  offset: 0, 0
+  index: -1
+platform_box123
+  rotate: false
+  xy: 1786, 1189
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+platform_box500
+  rotate: false
+  xy: 1284, 802
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+platform_list
+  rotate: false
+  xy: 1304, 1304
+  size: 400, 720
+  orig: 400, 720
+  offset: 0, 0
+  index: -1
+text_field
+  rotate: false
+  xy: 2, 2
+  size: 314, 94
+  orig: 314, 94
+  offset: 0, 0
+  index: -1
+toolbar
+  rotate: false
+  xy: 2, 470
+  size: 1300, 110
+  orig: 1300, 110
+  offset: 0, 0
+  index: -1
+
+game_textures2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+categories_bg
+  rotate: false
+  xy: 2, 724
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+main_bg
+  rotate: false
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+
+game_textures3.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levels_bg
+  rotate: false
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
